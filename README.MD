@@ -5,4 +5,4 @@ Takrib is licensed under the MIT license. Check the [LICENSE](LICENSE) file for 
 
 ## Author
 
-[Emir Ribic](https://zaynkorai.github.io)
+[Zayn Korai](https://zaynkorai.github.io)
