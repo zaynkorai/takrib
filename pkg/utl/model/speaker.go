@@ -1,4 +1,4 @@
-package  takrib
+package takrib
 
 // Speaker represents speaker domain model
 type Speaker struct {
@@ -19,5 +19,5 @@ type Speaker struct {
 	City              string `json:"city"`
 	PhotoURL          string `json:"photo_url"`
 	ThumbnailImageURL string `json:"thumbnail_image_url"`
-	//EventID           string `json:"self.event_id"`
+	// EventID           int    `json:"event_id"`
 }

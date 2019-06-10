@@ -1,4 +1,4 @@
-package  takrib
+package takrib
 
 // Sponsor represents sponsor domain model
 type Sponsor struct {
@@ -8,5 +8,5 @@ type Sponsor struct {
 	URL         string `json:"url"`
 	LogoURL     string `json:"logo_url"`
 	SponsorType string `json:"type"`
-	//	EventID     string `json:"event_id"`
+	// EventID     string `json:"event_id"`
 }
